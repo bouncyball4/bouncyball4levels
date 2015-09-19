@@ -1,0 +1,12 @@
+{
+	"pieces":[
+	{"type":"finish","x":20,"y":360},
+	{"type":"gate","w":80,"h":20,"x":0,"y":340},
+	{"type":"woodblock","w":20,"h":40,"x":0,"y":360},
+	{"type":"woodblock","w":40,"h":20,"x":0,"y":0},
+	{"type":"woodblock","w":20,"h":40,"x":60,"y":360},
+	{"type":"key","x":400,"y":385},
+	{"type":"ball","id":1,"x":110,"y":290}
+	],
+	"time":841
+}
