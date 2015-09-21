@@ -5,7 +5,7 @@
 		{"type": "woodblock", "x": 210, "y": 280, "w": 20, "h": 20},
 		{"type": "woodblock", "x": 320, "y": 100, "w": 20, "h": 20},
 		{"type": "woodblock", "x": 430, "y": 280, "w": 20, "h": 20},
-		{"type": "woodblock", "x": 450, "y": 190, "w": 20, "h": 20},
+		{"type": "woodblock", "x": 450, "y": 150, "w": 20, "h": 60},
 		{"type": "ball", "x": 50, "y": 200}
 	],
 	"time": 221
