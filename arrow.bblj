@@ -1,6 +1,6 @@
 {
 	"pieces": [
-		{"type":"arrow","x": 200, "y": 290, "dir": 0},
+		{"type":"arrow","x": 240, "y": 290, "dir": 0},
 		{"type":"woodblock", "x": 0, "y": 200, "w": 150, "h": 20},
 		{"type": "finish", "x": 50, "y": 285},
 		{"type":"ball", "x": 20, "y": 170}
